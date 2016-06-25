@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-        printf("tet leven!\n");
+        printf("test leven!\n");
         return 0;
 }
